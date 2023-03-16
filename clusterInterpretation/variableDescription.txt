@@ -1,4 +1,4 @@
-variableDescription = ["Accidents":"Number of car accidents that occured within 200m throughout the last year. says something about safty and car traffic in the area,
+variableDescription = {"Accidents":"Number of car accidents that occured within 200m throughout the last year. says something about safty and car traffic in the area,
                       "UrbanParks": "square meter of parks within a 200 meter radius. says something about livability, accessible leisure space and microcliamte ",
                       "OldTown": "square meter of old town style neighbouhoods within 500 meter radius. old town style means small and pedestrianized streets, often tourists can be found here",
                       "Bars":" the number of bars within 400 meter radius. Says something about the livability, nightlife and human noise levels of the neighbouhood",
@@ -9,4 +9,4 @@ variableDescription = ["Accidents":"Number of car accidents that occured within 
                       "strOri_2":"strOri stands for street orientation. strOri_2 measures the lenght of street segments that direct east/west in a radius of 200 meter. Looking at the combination SrOri_0 - strOri_3 together allows for insights on the regularity and direction of the urban grid, which has an impact on e.g. shading of public spaces, micro climate and how complex the road network of an area is. ",,
                       "strOri_3":"strOri stands for street orientation. strOri_3 measures the lenght of street segments that direct south-east/north-west in a radius of 200 meter. Looking at the combination SrOri_0 - strOri_3 together allows for insights on the regularity and direction of the urban grid, which has an impact on e.g. shading of public spaces, micro climate and how complex the road network of an area is. ",,
                        "clusterID": "the ID of the cluster a data-point was assigned to.",
-                      ]
+                      }
